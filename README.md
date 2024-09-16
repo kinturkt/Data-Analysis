@@ -6,18 +6,18 @@ This repository contains various data analysis projects exploring different data
 <b>File:</b> Summer Olympics.ipynb
 
 This project provides an in-depth analysis of data from the Summer Olympics, examining country performances, athlete statistics, and event-specific trends. Key analysis includes:
-Top-performing countries
-Gender-wise distribution of athletes
-Event-wise medal count trends
+Top-performing countries <b>
+Gender-wise distribution of athletes <b>
+Event-wise medal count trends <b>
 Historical performance of nations over the years
 
 <h3> 2. Uber Data Analysis</h3>
 <b>File:</b> Uber Data Analysis.ipynb
 
 In this project, Uber ride data is analyzed to extract insights such as:
-Peak hours for rides
-Ride density across different locations
-Trends in fare pricing over time
+Peak hours for rides <b>
+Ride density across different locations <b>
+Trends in fare pricing over time <b>
 Customer behavior based on time of day or day of the week
 
 <h3>3. Heart Attack Analysis</h3>
