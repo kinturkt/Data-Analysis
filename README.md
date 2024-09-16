@@ -51,7 +51,7 @@ Impact of cybercrimes on businesses and individuals <br>
 <h3>6. Screen Time Analysis</h3>
 <b>File: Screen Time Analysis.ipynb</b> <br> <br>
 
-An analysis of screen time data to understand how people allocate time across different devices and platforms. <br>
+An analysis of screen time data to understand how people allocate time across different devices and platforms. <br> <br>
 Key points include:<br>
 Average daily screen time across various demographics <br>
 Impact of screen time on productivity and well-being <br>
