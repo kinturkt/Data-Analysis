@@ -24,7 +24,7 @@ Customer behavior based on time of day or day of the week <br>
 <h3>3. Heart Attack Analysis</h3>
 <b>File:</b> heart_attack_analysis.ipynb <br> <br>
 
-This analysis focuses on medical data related to heart attacks to identify key factors contributing to them. <br>
+This analysis focuses on medical data related to heart attacks to identify key factors contributing to them. <br> <br>
 Key insights include: <br>
 Correlation between age, cholesterol levels, and heart attack risk <br>
 Prediction of heart attack likelihood using machine learning models <br>
