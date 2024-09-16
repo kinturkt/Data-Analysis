@@ -15,7 +15,7 @@ Historical performance of nations over the years <br>
 <h3> 2. Uber Data Analysis</h3>
 <b>File:</b> Uber Data Analysis.ipynb  <br> <br>
  
-In this project, Uber ride data is analyzed to extract insights such as: <br> <br>
+In this project, Uber ride data is analyzed to extract insights such as: <br>
 Peak hours for rides <br>
 Ride density across different locations <br>
 Trends in fare pricing over time <br>
